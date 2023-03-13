@@ -1,0 +1,68 @@
+.containerLocation{
+    background-color: rgba(11, 29, 43, 0.4);
+    margin: 15px 2px 0 0;
+    height: 110px;
+    
+}
+
+
+
+.containerLocation h4 {
+    margin-top: 6px;
+    padding-top: 10px;
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+}
+
+.containerLocation h2 {
+    margin-top: 6px;
+    font-size: 35px;
+    color: #fff;
+    text-align: center;
+}
+
+.containerTemp {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.containerTemp p{
+    margin: 8px 0 0 0;
+    color: #fff;
+    font-size: 50px;
+}
+
+.containerTemp span{
+    padding-left: 10px;
+    color: #fff;
+    font-size: 45px;
+}
+
+.changeDay p{
+    font-size: 120px;
+}
+
+.containerExInfo {
+    margin-right: 100px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.containerExInfo img {
+    width: 100px;
+    height: 100px;
+}
+
+.containerExInfo h5 {
+    color: #fff;
+    font-size: 24px;
+    
+}
+
+.map {
+    margin: 0 0 10px 15px;
+}

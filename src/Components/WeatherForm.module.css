@@ -1,0 +1,19 @@
+.form {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inputDesign {
+    font-size: 20px;
+    border: none;
+    border-radius: 3px;
+    width: 380px;
+    margin: auto;
+    padding: 12px;
+    margin: auto;
+    outline: none;
+}

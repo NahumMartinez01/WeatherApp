@@ -1,0 +1,26 @@
+
+
+.cardContainer{
+    border-radius: 20px;
+    box-shadow: -2px 1px 27px 7px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -2px 1px 27px 7px rgba(0,0,0,0.75);
+    -moz-box-shadow: -2px 1px 27px 7px rgba(0,0,0,0.75);
+    margin: 60px auto;
+    width: 810px; 
+    height: 900px;
+    background-color: rgba(64, 96, 111 , 0.5);
+    
+}
+
+.titleApp{
+    font-size: 46px;
+    color:#fff;
+    text-align: center;
+}
+
+.errorText {
+    padding: 20px;
+    font-size: 32px;
+    color:#fff;
+    text-align: center;
+}
